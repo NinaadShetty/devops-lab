@@ -3,7 +3,7 @@ name: Build Pipeline
 on:
   push:
     branches:
-      - 'YOUR-BRANCH-NAME'
+      - 'IN-1-Integrate-NPM-Project-with-DevOps-Integration'
 
 jobs:
   build:
