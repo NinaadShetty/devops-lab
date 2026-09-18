@@ -1,0 +1,21 @@
+{
+  "name": "devops-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"CI Test Passed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinaadShetty/devops-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NinaadShetty/devops-lab/issues"
+  },
+  "homepage": "https://github.com/NinaadShetty/devops-lab#readme"
+}
